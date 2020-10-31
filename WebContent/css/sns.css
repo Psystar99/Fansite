@@ -1,0 +1,93 @@
+/*main, gallery,video,schedule*/
+
+/* Footer
+================================================ */
+footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 32px;
+	z-index: 1;
+	background-color: #1e821e;
+}
+
+.snsicon {
+	display: block;
+	width: 160px;
+	height: 30px;
+	text-align: center;
+	top: 15px;
+	margin: 0 auto;
+}
+
+/* SNS ICON
+================================================ */
+a.sb, .sb a {
+	float: left;
+	width: 30px;
+	height: 30px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	text-indent: -900em;
+	text-decoration: none;
+	white-space: nowrap;
+	display: inline-block;
+	position: relative;
+	vertical-align: middle;
+	margin: 0 10px 0 0;
+	background-color: none;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+/* for IE??? */
+*:first-child+html a.sb, *:first-child+html .sb a {
+	text-indent: 0;
+	line-height: 0;
+	font-size: 0;
+	overflow: hidden;
+}
+
+.sb {
+	margin: 0;
+	padding: 0;
+}
+
+.sb a {
+	opacity: 0.75;
+	-webkit-transition: all 0.3s linear;
+	-moz-transition: all 0.3s linear;
+	transition: all 0.3s linear;
+}
+
+.sb a:hover {
+	opacity: 1.0;
+}
+
+.sb li {
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+
+a.sb.twitter, .sb a.twitter {
+	background-image: url(../image/sns/twitter_bird.png);
+}
+
+a.sb.facebook, .sb a.facebook {
+	background-image: url(../image/sns/facebook.png);
+}
+
+a.sb.youtube, .sb a.youtube {
+	background-image: url(../image/sns/youtube.png);
+}
+a.sb.instagram, .sb a.instagram {
+	background-image: url(../image/sns/instagram.png);
+	background-size: contain;
+}
+
+/* no-border style */
+a.sb.no-border, .sb.no-border a {
+	border: none;
+}

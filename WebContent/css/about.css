@@ -1,0 +1,88 @@
+#container {
+	margin: 0px auto;
+	padding: 20px;
+}
+
+#header {
+	padding: 20px;
+	margin-bottom: 20px;
+	border: 1px solid #bcbcbc;
+}
+
+#content {
+	background-image: url(../image/about.jpg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 383px;
+	width: 50%;
+	padding: 20px;
+	
+	float: left;
+	
+}
+
+#sidebar1 {
+	width: 42%;
+	height: 100%;
+	padding: 20px;
+	margin-bottom: 20px;
+	float: right;
+	border: 1px solid #bcbcbc;
+}
+
+
+
+#footer {
+	clear: both;
+	padding: 20px;
+	border: 1px solid #bcbcbc;
+}
+
+ul.h {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: aliceblue;
+}
+
+li.h {
+	float: left;
+}
+
+li.h a.h {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li.h a.h:hover:not (.active ){
+	background-color: Gold;
+}
+
+.active {
+	background-color: fuchsia;
+}
+
+a {
+	text-decoration: none
+}
+
+a.slink:link {
+	color: black;
+}
+
+a.slink:visited {
+	color: blue;
+}
+
+a.slink:active {
+	color: yellow;
+}
+
+a.slink:hover {
+	color: red;
+}

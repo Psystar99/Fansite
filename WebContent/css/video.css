@@ -1,0 +1,60 @@
+/*video*/
+#video-list {
+	min-width: 80%;
+	max-width: 700px;
+	margin: 0 auto;
+
+}
+
+#video-list img {
+	border: solid 1px #CCCCCC;
+	max-width: 100%;
+}
+
+#video-list a {
+	
+}
+
+#video-list ul {
+	list-style: none outside none;
+	margin: 0;
+	padding: 60px;
+	text-align: center;
+}
+
+#video-list li {
+	max-width: 90px;
+	display: inline-block;
+	margin: 0 2px;
+}
+
+#sect-main h3 {
+	padding: 20px 0 10px 0;
+	margin: 0;
+	font-size: 13px;
+	line-height: 20px;
+}
+
+#sect-main p {
+	padding: 0;
+	font-size: 12px;
+	line-height: 17px;
+}
+
+iframe {
+	width: 100%;
+	height: 100%;
+}
+
+.movie {
+	margin: 0 auto;
+	width: 550px;
+	height: 350px;
+	padding-top: 50px;
+}
+
+#video-list li {
+	max-width: 200px;
+	display: inline-block;
+	margin: 0 10px;
+}

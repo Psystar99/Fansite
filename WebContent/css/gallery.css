@@ -1,0 +1,25 @@
+/*gallery*/
+
+.gallery{
+	}
+
+.photos{
+	
+	margin:0 auto; 
+	padding:40px 0;
+	height:100%;
+}
+
+.photos ul {
+	list-style: none outside none; margin:0; padding: 0; /*text-align:center;*/
+	}
+.photos li {
+display:inline-block; margin: 0;
+width:20%; height:auto; float:left;}
+}
+
+li img{
+	float:left;
+max-width:100%;
+}	
+
