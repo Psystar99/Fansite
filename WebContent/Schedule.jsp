@@ -313,18 +313,18 @@
                                              <div id="sche-list">
                                                 <ul>
                                                    <li><strong>3 TUE</strong>
-                                                      <p class="sche-text">dj분영님 생일파티</p></li>
+                                                      <p class="sche-text">dj 생일파티</p></li>
                                                    <li><strong>7 SUN</strong>
                                                       <p class="sche-text">내 손안의 작은 라디오 출연</p></li>
                                                    <li><strong>20 FRI</strong>
                                                       <p class="sche-text">
-                                                         목욕재개<br>팬미팅 리허설
+                                                         인터<br>팬미팅 리허설
                                                       </p></li>
 
                                                    <li><strong>22 Sun</strong>
-                                                      <p class="sche-text">이초록 BirthDay</p></li>
+                                                      <p class="sche-text">BirthDay</p></li>
                                                    <li><strong>23 Mon</strong>
-                                                      <p class="sche-text">초록팬클럽 IFARI 연말파티 'Greem
+                                                      <p class="sche-text">팬클럽 IFARI 연말파티 'Greem
                                                          Christmas'</p></li>
                                                    <li><strong>31 TUE</strong>
                                                       <p class="sche-text">2019 마무리 vlog 공개</p></li>
